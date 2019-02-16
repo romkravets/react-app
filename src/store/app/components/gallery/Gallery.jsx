@@ -42,20 +42,6 @@ export class Gallery extends React.Component {
             <img src={require('../../../../../assets/images/gallery/photo_3.jpg')} />
         </div>
         </div>
-
-        <div className='row'>
-         <div className='col-4'>
-            <img src={require('../../../../../assets/images/gallery/photo_1.jpg')} />
-        </div>
-
-        <div className='col-4'>
-             <img src={require('../../../../../assets/images/gallery/photo_2.jpg')} />
-        </div>
-
-        <div className='col-4'>
-            <img src={require('../../../../../assets/images/gallery/photo_3.jpg')} />
-        </div>
-        </div>
         </div>
         );
     }
