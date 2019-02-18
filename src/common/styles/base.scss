@@ -23,7 +23,7 @@ body {
   // Creating dark overlay for background image
   &:after {
     position: absolute;
-    top: 200px;
+    top: 0px;
     left: 0;
     z-index: 2;
     content: "";
